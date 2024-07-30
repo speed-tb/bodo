@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 130.0
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-gloss"
+		xmin = 0.0
+		xmax = 130.0
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 7.5
+			text = ""
+		intervals [3]:
+			xmin = 7.5
+			xmax = 8.15
+			text = "0"
+		intervals [4]:
+			xmin = 8.15
+			xmax = 21.05
+			text = ""
+		intervals [5]:
+			xmin = 21.05
+			xmax = 130.0
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-transcription"
+		xmin = 0.0
+		xmax = 130.0
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 7.5
+			text = "मानोना जोंनि गेजेराव बेक्टिया बिराद बारा बुरजा गैया सासे सानैल' दिल्लियाव खामानि मावनाया सोरखौबा गोदान बेयाव जों प्रजेक्ट खालामनो हायाखै"
+		intervals [3]:
+			xmin = 7.5
+			xmax = 8.15
+			text = "0"
+		intervals [4]:
+			xmin = 8.15
+			xmax = 21.05
+			text = "बि पि.सि.दि.आर दा नोंथांमोना दादोंमोन पि.सि.दि.आर नि गेजेरजों नोंथांमोना बि.टि.सि इलेक्सनाव नोंथांमोना बाहागो लादोंमोन थु थावजेन्ट पिप्टिनाव आरो बिनि उनाव पि.सि.दि.आर खौनो नोंथांमोना इउ.पि. पि .एल बानायनो लादों होन्नानै बुंनाय जादों आरो बिफोरनि जिनिखि बानायनाय थासारि दा बेवहाय गोबांसाया अजद होनो नागेरोजे दुलाराय बर फरायसा आफादानो इउ.पि. पि .एल खौ दादों आरो बे पि.सि.दि.आर खौ दादोंमोन आरो दुलाराय बर फरायसा आफादनि मावख'फोरावनो नोंथांमोना बे राजखान्थियारि माखासे हाबा हुखाखौ मावनो होदोंमोन बे अजदा फैबाय थादों"
+		intervals [5]:
+			xmin = 21.05
+			xmax = 21.8
+			text = "0"
+		intervals [6]:
+			xmin = 21.8
+			xmax = 56.1
+			text = ""
+		intervals [7]:
+			xmin = 56.1
+			xmax = 56.55
+			text = "0"
+		intervals [8]:
+			xmin = 56.55
+			xmax = 129.95
+			text = "ओ सानैसोआ बे अजदखौ होबाय थागोन नाथाय अजद होग्रा मानसिया सोर नोंथाङा बिखौबो नाय जुदि बियो अथ'र' बोसोरनि बा बिनि उन्निबा बिहा सिगांनि देभलबमेन्टफोरजों लिंक थानाय नङा जुदि बिथाङा पन्सास बोसोरनिबा आं निटसय बुंगोनजे बिथाङाबो जातिनि खामानि मावदोंब्ला बै समाव एबसु अफिसाव थानानैनो थु थावजेन्ट अवाननि इलेक्सनखौ गेलेदोंमोन बै समाव नाइनटि अवाननि  इलेक्सनखौ एबसु अफिसाव थानानैनओ गेलेदोंमोन एबसुनि हयथ' प्लेग बेनार लानानैनो दा दिनैनि समाव बिथांमोना जास्त गावखौनो गोजोन्नो बा सोरखौबा लासिंसिं खालामनो बा गाहाय खालामनो बे कुइसनफोरखौ लाबोयो आधारवाइस नोंथाङा नाय बर' हारिनि थामजि बोसोरनि जारिमिनाव नङा होनब्ला साहित्य सभाया मोनसे पजिसन लानानै थादों राव थुनलाइ जौगानायनि मोनसे एक्सट्रा पजिसन बर' हारिनि बेखौ नागारनानै जुदि पलिटिकेल देभलबमेन्ट पलिटिकेल खामानि मावनाय इसु बेस खामानि मावनाय मुभमेन्टनि खामानि मावनाय एबसु नङा होनब्ला खिन्थु एबसुखौनै बयबो टारगेट खालामो एबसुनि गोरोन्थिखौ ओरैबादि जावो माने खदाल जों जावलाय जे.सि.बि जों जावलाय एबसुनि गोरोन्थि बरन्नायाव ओरैबादि बेस्थ वेरियेस बेखौ बरन्नानै जोंहा जाथिया मा लाब जागोन फास्थ इस फास्थ प्रेजेन्टखौ ला पिउसारखौ ला"
+		intervals [9]:
+			xmin = 129.95
+			xmax = 130.0
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 130.0
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 7.5
+			text = "undefined"
+		intervals [3]:
+			xmin = 7.5
+			xmax = 8.15
+			text = "0"
+		intervals [4]:
+			xmin = 8.15
+			xmax = 21.05
+			text = ""
+		intervals [5]:
+			xmin = 21.05
+			xmax = 130.0
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 130.0
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 7.5
+			text = "undefined"
+		intervals [3]:
+			xmin = 7.5
+			xmax = 8.15
+			text = "0"
+		intervals [4]:
+			xmin = 8.15
+			xmax = 21.05
+			text = ""
+		intervals [5]:
+			xmin = 21.05
+			xmax = 130.0
+			text = "0"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 130.0
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 7.5
+			text = ""
+		intervals [3]:
+			xmin = 7.5
+			xmax = 8.15
+			text = "0"
+		intervals [4]:
+			xmin = 8.15
+			xmax = 21.05
+			text = ""
+		intervals [5]:
+			xmin = 21.05
+			xmax = 130.0
+			text = "0"

@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 34.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 34.4
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 23.1
+			text = ""
+		intervals [2]:
+			xmin = 23.1
+			xmax = 23.2
+			text = "0"
+		intervals [3]:
+			xmin = 23.2
+			xmax = 26.43
+			text = ""
+		intervals [4]:
+			xmin = 26.43
+			xmax = 26.58
+			text = "0"
+		intervals [5]:
+			xmin = 26.58
+			xmax = 34.03
+			text = ""
+		intervals [6]:
+			xmin = 34.03
+			xmax = 34.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-transcription"
+		xmin = 0.0
+		xmax = 34.4
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 23.1
+			text = "डकटर अनजुलि दैमारिखौ दिनै बड’लेण्ड इंखं टेलिभिजननि स्टुदिआव हांख्रायना लाबोदों, बिथांनि माखासे गोसो सिंनि बाथ्राखौ मोनथिनो थाखाय, आरो बिथांजों बे मोगा मोगि लानायनि गेजेरजों जों दिनै मोनथिनो लागोन बिथांनि जिउनि आगु समनि बाथ्रा, दा समनि बाथ्रा, आरो उन समनि बिथांनि माखासे बिथांगिबिनि बागै।"
+		intervals [2]:
+			xmin = 23.1
+			xmax = 23.2
+			text = "0"
+		intervals [3]:
+			xmin = 23.2
+			xmax = 26.43
+			text = "गिबियावनो बिथांनो खुलुमनाय होबाय, खुलुमबाय।"
+		intervals [4]:
+			xmin = 26.43
+			xmax = 26.58
+			text = "0"
+		intervals [5]:
+			xmin = 26.58
+			xmax = 34.03
+			text = "नोंथाङा गावनि सिनायथिखौ गुदिनिफ्राय होनान लाग्रोदो।"
+		intervals [6]:
+			xmin = 34.03
+			xmax = 34.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 34.4
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 23.1
+			text = ""
+		intervals [2]:
+			xmin = 23.1
+			xmax = 23.2
+			text = "0"
+		intervals [3]:
+			xmin = 23.2
+			xmax = 26.43
+			text = ""
+		intervals [4]:
+			xmin = 26.43
+			xmax = 26.58
+			text = "0"
+		intervals [5]:
+			xmin = 26.58
+			xmax = 34.03
+			text = ""
+		intervals [6]:
+			xmin = 34.03
+			xmax = 34.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 34.4
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 23.1
+			text = ""
+		intervals [2]:
+			xmin = 23.1
+			xmax = 23.2
+			text = "0"
+		intervals [3]:
+			xmin = 23.2
+			xmax = 26.43
+			text = ""
+		intervals [4]:
+			xmin = 26.43
+			xmax = 26.58
+			text = "0"
+		intervals [5]:
+			xmin = 26.58
+			xmax = 34.03
+			text = ""
+		intervals [6]:
+			xmin = 34.03
+			xmax = 34.4
+			text = "0"

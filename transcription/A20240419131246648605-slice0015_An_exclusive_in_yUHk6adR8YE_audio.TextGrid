@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 18.1
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-gloss"
+		xmin = 0.0
+		xmax = 18.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.9
+			text = "0"
+		intervals [2]:
+			xmin = 1.9
+			xmax = 5.54
+			text = ""
+		intervals [3]:
+			xmin = 5.54
+			xmax = 18.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-transcription"
+		xmin = 0.0
+		xmax = 18.1
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.9
+			text = "0"
+		intervals [2]:
+			xmin = 1.9
+			xmax = 5.54
+			text = "थ' आं दा आं नोंथांखौ दहायनो सोंदोंमोनजे प्रिपेरेस'ना माबादि नोंथाङा बुंबाय प्रेपेरेस'ना अलरेदि जाबायथादों"
+		intervals [3]:
+			xmin = 5.54
+			xmax = 15.14
+			text = "0"
+		intervals [4]:
+			xmin = 15.14
+			xmax = 16.19
+			text = "सरखार जागोन्ना नोंथांमैन्नि"
+		intervals [5]:
+			xmin = 16.19
+			xmax = 18.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 18.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.9
+			text = "0"
+		intervals [2]:
+			xmin = 1.9
+			xmax = 5.54
+			text = ""
+		intervals [3]:
+			xmin = 5.54
+			xmax = 18.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 18.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.9
+			text = "0"
+		intervals [2]:
+			xmin = 1.9
+			xmax = 5.54
+			text = ""
+		intervals [3]:
+			xmin = 5.54
+			xmax = 18.1
+			text = "0"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 18.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.9
+			text = "0"
+		intervals [2]:
+			xmin = 1.9
+			xmax = 5.54
+			text = ""
+		intervals [3]:
+			xmin = 5.54
+			xmax = 18.1
+			text = "0"

@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 133.2
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-transcription"
+		xmin = 0.0
+		xmax = 133.2
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.4
+			text = "0"
+		intervals [2]:
+			xmin = 0.4
+			xmax = 7.5
+			text = "आं दा सानदों आं गावनिफ्राय लिरनो होन्नानै, थ ’ जोस्त जागायदों, बेखौ आं जेबो मुं होथ’नो हाया दा।"
+		intervals [3]:
+			xmin = 7.5
+			xmax = 7.8
+			text = "0"
+		intervals [4]:
+			xmin = 7.8
+			xmax = 17.7
+			text = "आरो गावनि खन्थाइफोर जे दंङ नोंथाङा जे बुंबाय उन्दै समनिफ्रायनो एसे क्लास ओइटनिफ्राय खन्थाइ सल’ लिरनो नाजादोंमोन लादोंमोन दा बेफोरखौ नोंथाङा बुथुमनानै गांसे बिजाब दिहुन्नायनि बेबस्था।"
+		intervals [5]:
+			xmin = 17.7
+			xmax = 17.85
+			text = "0"
+		intervals [6]:
+			xmin = 17.85
+			xmax = 52.15
+			text = "आं बेखौ सानाखै खिन्थु बे जाहैबाय जे साहिथ' एकाडेमिया जेब्ला गुबुन गुबुन समावहाय पयेट्स मिटफोर खालामो, आं बिफोराव आंखौ मालाबा एस ए पयेट लिंहरो स' आं लिरनानै लांनानै आवरायनानै फैयो बेखौहाय, दोनथुमनाय दंङ आं फोसावनायनि खोथा सानथ'आखै हय्थ' उनफ्राव, फोसावग्राया थ' ओंखारबोखागोन, नोंथांनि जेनोखि लेरनायनि आदब बै जे रावसोलाय बान्था नोंथाङा मोनदोंमोन जे, बे लेरनायनि आदबा बेनो मोनसे गिदिर माने फ्रमान फोरमान जे नोंथाङा सासे गेदेर लिरगिरि, आरो नोंथाङा जुदि अफार होयोब्ला पाब्लिसारफ्रा ओंखारबोगोन बेखौ मिजिं खालामो।"
+		intervals [7]:
+			xmin = 52.15
+			xmax = 52.45
+			text = "0"
+		intervals [8]:
+			xmin = 52.45
+			xmax = 132.88
+			text = "फैफिनदों दा जों सावरायनि हारिमु थिलायाव डकटर अनजुलि दैमारि, नोंथाङा मोनसे सावथुनाव एक्ट्रिसनि मेन रल लादोंमोन, सावथुननि मुङा सोरमोन नों, बि सावथुनाव फावथाइनायनि एक्सपिरेन्स, बे बिराद मोजां एक्सपिरियेन्स माने बावनो हायै एक्सपिरियेन्स, बेखौहाय खालामदोंमोन बुरलुंबुथुर बर' फ्लिम ससाइटि होन्नाय मोनसे प्रदाकसना औ, आम्फ्राय गुबैयै बेयावहाय दंमोन दा रुंसारि जालांनाय बर'नि गिबि एम ए दिग्रि  हल्दार  आब' मेनु बर', बे फ्लिमनि थाखायनो आब'जों आं सिनाखि जादोंमोन आं गहाटि इउनिभारसिटियाव फरायबाय थानाय समावहाय, बोरै बोरै बहानिफ्राय मोनथिनानै आंखौ खबर खालामनानै मानसि लिंनो हरदोंमोन, बिनिफ्राय आं इनभल्भ जाबाय प्रदाकसनाव, आम्फ्राय आं गिबियाव मेन एक्ट्रिस नङामोन फावगिरि नङामोन, ओरैनो प्रदाकसनाव खामानि मावनो थाखाय सहाय खालामनो स्क्रिप नायनो मेथाइ मानसि कनटेक खालामनो बेफोरनि थाखायसो, जों जयै खामानि मावनो ना होन्ना आब' आंजों दोंमोन खिन्थु उनाव बोरै बोरै बोरै जाहोयखो आं एक्ट्रिस जाहैबाय औ मेन रलखौ आंनो होनाय जाबाय, स्क्रिप्टाबो अरिजिनेलि  गुबुनमोन,"
+		intervals [9]:
+			xmin = 132.88
+			xmax = 133.2
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 133.2
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.4
+			text = "0"
+		intervals [2]:
+			xmin = 0.4
+			xmax = 7.5
+			text = ""
+		intervals [3]:
+			xmin = 7.5
+			xmax = 7.8
+			text = "0"
+		intervals [4]:
+			xmin = 7.8
+			xmax = 17.7
+			text = ""
+		intervals [5]:
+			xmin = 17.7
+			xmax = 17.85
+			text = "0"
+		intervals [6]:
+			xmin = 17.85
+			xmax = 52.15
+			text = ""
+		intervals [7]:
+			xmin = 52.15
+			xmax = 52.45
+			text = "0"
+		intervals [8]:
+			xmin = 52.45
+			xmax = 132.88
+			text = ""
+		intervals [9]:
+			xmin = 132.88
+			xmax = 133.2
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 133.2
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.4
+			text = "0"
+		intervals [2]:
+			xmin = 0.4
+			xmax = 7.5
+			text = ""
+		intervals [3]:
+			xmin = 7.5
+			xmax = 7.8
+			text = "0"
+		intervals [4]:
+			xmin = 7.8
+			xmax = 17.7
+			text = ""
+		intervals [5]:
+			xmin = 17.7
+			xmax = 17.85
+			text = "0"
+		intervals [6]:
+			xmin = 17.85
+			xmax = 52.15
+			text = ""
+		intervals [7]:
+			xmin = 52.15
+			xmax = 52.45
+			text = "0"
+		intervals [8]:
+			xmin = 52.45
+			xmax = 132.88
+			text = ""
+		intervals [9]:
+			xmin = 132.88
+			xmax = 133.2
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 133.2
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.4
+			text = "0"
+		intervals [2]:
+			xmin = 0.4
+			xmax = 7.5
+			text = ""
+		intervals [3]:
+			xmin = 7.5
+			xmax = 7.8
+			text = "0"
+		intervals [4]:
+			xmin = 7.8
+			xmax = 17.7
+			text = ""
+		intervals [5]:
+			xmin = 17.7
+			xmax = 17.85
+			text = "0"
+		intervals [6]:
+			xmin = 17.85
+			xmax = 52.15
+			text = ""
+		intervals [7]:
+			xmin = 52.15
+			xmax = 52.45
+			text = "0"
+		intervals [8]:
+			xmin = 52.45
+			xmax = 132.88
+			text = ""
+		intervals [9]:
+			xmin = 132.88
+			xmax = 133.2
+			text = "0"

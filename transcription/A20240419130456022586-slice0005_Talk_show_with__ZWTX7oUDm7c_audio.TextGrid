@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 82.5
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 82.5
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.0
+			text = ""
+		intervals [2]:
+			xmin = 8.0
+			xmax = 8.2
+			text = "0"
+		intervals [3]:
+			xmin = 8.2
+			xmax = 23.3
+			text = ""
+		intervals [4]:
+			xmin = 23.3
+			xmax = 82.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-transcription"
+		xmin = 0.0
+		xmax = 82.5
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.0
+			text = "आंनि जोनोमा दानि अदालगुरि जिलानि अदला खासिबारि होन्नाय मोनसे उन्दै गामियाव जानाय।"
+		intervals [2]:
+			xmin = 8.0
+			xmax = 8.2
+			text = "0"
+		intervals [3]:
+			xmin = 8.2
+			xmax = 23.3
+			text = "जोंहा गासै गासै सा जिसे फिसाफोरजों, आफानि मुंगा रबिरेन स्टेफेन दैमारि, बिथाङा गैलिया, आर आइया बो रुंसारि जालांबाय मुस्रि माथौरानि दैमारि।"
+		intervals [4]:
+			xmin = 23.3
+			xmax = 82.5
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 82.5
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.0
+			text = ""
+		intervals [2]:
+			xmin = 8.0
+			xmax = 8.2
+			text = "0"
+		intervals [3]:
+			xmin = 8.2
+			xmax = 23.3
+			text = ""
+		intervals [4]:
+			xmin = 23.3
+			xmax = 82.5
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 82.5
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.0
+			text = ""
+		intervals [2]:
+			xmin = 8.0
+			xmax = 8.2
+			text = "0"
+		intervals [3]:
+			xmin = 8.2
+			xmax = 23.3
+			text = ""
+		intervals [4]:
+			xmin = 23.3
+			xmax = 82.5
+			text = "0"

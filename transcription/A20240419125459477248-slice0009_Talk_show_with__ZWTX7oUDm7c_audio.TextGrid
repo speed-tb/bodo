@@ -1,0 +1,336 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 136.6
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 136.6
+		intervals: size = 19
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 17.7
+			text = ""
+		intervals [3]:
+			xmin = 17.7
+			xmax = 17.89
+			text = "0"
+		intervals [4]:
+			xmin = 17.89
+			xmax = 27.29
+			text = ""
+		intervals [5]:
+			xmin = 27.29
+			xmax = 27.49
+			text = "0"
+		intervals [6]:
+			xmin = 27.49
+			xmax = 43.39
+			text = ""
+		intervals [7]:
+			xmin = 43.39
+			xmax = 43.57
+			text = "0"
+		intervals [8]:
+			xmin = 43.57
+			xmax = 51.27
+			text = ""
+		intervals [9]:
+			xmin = 51.27
+			xmax = 51.48
+			text = "0"
+		intervals [10]:
+			xmin = 51.48
+			xmax = 74.88
+			text = ""
+		intervals [11]:
+			xmin = 74.88
+			xmax = 75.07
+			text = "0"
+		intervals [12]:
+			xmin = 75.07
+			xmax = 88.27
+			text = ""
+		intervals [13]:
+			xmin = 88.27
+			xmax = 88.34
+			text = "0"
+		intervals [14]:
+			xmin = 88.34
+			xmax = 118.64
+			text = ""
+		intervals [15]:
+			xmin = 118.64
+			xmax = 118.76
+			text = "0"
+		intervals [16]:
+			xmin = 118.76
+			xmax = 132.06
+			text = ""
+		intervals [17]:
+			xmin = 132.06
+			xmax = 132.16
+			text = "0"
+		intervals [18]:
+			xmin = 132.16
+			xmax = 136.46
+			text = ""
+		intervals [19]:
+			xmin = 136.46
+			xmax = 136.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-transcription"
+		xmin = 0.0
+		xmax = 136.6
+		intervals: size = 19
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 17.7
+			text = "बे दिबेट बादाय लायनाय, बा बिदिनो सर्ट मा होनो बिखो जायगायावनो बुंनो गोनां बुंनाय, माने एक्सटेमफर स्पिस‌ औ एक्सटेमफर स्पिस, बेफोराव आं फ्राय, बान्था मोनदोंमोन, फोर्स प्राइसखौ फ्राय मोनोमोन।"
+		intervals [3]:
+			xmin = 17.7
+			xmax = 17.89
+			text = "0"
+		intervals [4]:
+			xmin = 17.89
+			xmax = 27.29
+			text = "हस्टेलाव जों आं जेथु हस्टेलाव थायोमोन बियाव बइस हस्टेल गोल्स हस्टेल ज'मोन, थ' बियाव खम्पिटिसन जायोब्ला आं आंनि आदाखौबो फेजेनोमोन बिदिहाय।"
+		intervals [5]:
+			xmin = 27.29
+			xmax = 27.49
+			text = "0"
+		intervals [6]:
+			xmin = 27.49
+			xmax = 43.39
+			text = "स’ बि लिटारेरि सेन्स अर कोलसारेल सेन्सा उन्दैनिफ्रायनो नखरावनो आब' आइमोननिफ्राय मोनबोनाय, खिन्थु आं बुंनो थाङोब्ला आं दोनै आं गावखौ लिरगिरि होननानै बुंनो हाया सिनायथिबो होनो हाया खारन आं लिरबाङा।"
+		intervals [7]:
+			xmin = 43.39
+			xmax = 43.57
+			text = "0"
+		intervals [8]:
+			xmin = 43.57
+			xmax = 51.27
+			text = "ना नोंथाङा साहिथ' एकाडेमिनि बान्थाबो आवथाइनो हादों, औ बे ट्रेनस्लेसनाव, औ मा बिजाबमोन बियो?"
+		intervals [9]:
+			xmin = 51.27
+			xmax = 51.48
+			text = "0"
+		intervals [10]:
+			xmin = 51.48
+			xmax = 74.88
+			text = "बे डकटर मामुनि रइसम गसवामिनि आधा लेखा दस्टाबेज बेखौहाय आं बर'आव आद्रा लिरनाय सानद्रेब हिसाबै आं बेखौ दानस्लायदोंमोन, दा बेयावबो आंहा सानफ्रोमबो आं लिट्रेचारनि स्टुदेन्ट, लिट्रेचारनि आङो फोरोंगिरि, बिनि उनाव गोसोआव सानफ्रोमबो खें खें मोनबाय थायोमोन जे आं लिट्रेचारनि स्टुदेन्ट हिसाबै आं जेबो लिराखै, जेबो मावाखै थुनलाइनि बेलायाव"
+		intervals [11]:
+			xmin = 74.88
+			xmax = 75.07
+			text = "0"
+		intervals [12]:
+			xmin = 75.07
+			xmax = 88.27
+			text = "स' बे‌ खें खें जेथु आंनियाव सान्नाय फैयोमोन गिलटी फिलिंस मोनसे थाबाय थायोमोन बेयावनो आङो सानबाय जे आं थ' एथलिस्ट आं गाव क्रियेट खालामनो सम मोनाब्लाबो बा सम होनो हायाब्लाबो एथलिस्ट आइ केन ट्रेनस्लेट साम वान्स गुद लिट्रेचार।"
+		intervals [13]:
+			xmin = 88.27
+			xmax = 88.34
+			text = "0"
+		intervals [14]:
+			xmin = 88.34
+			xmax = 118.64
+			text = "स' बिफोर बायदिहाय आं मामुनि रइसम बाइद’ आ जेब्ला गियान फिच एवार्ड मोनो बे बोसोरावनो आङो कंग्रेसुलेसोन होनो थांनाय फावयै लोगो मोन्नायाव आं बे प्रस्टाबखौ होयो, बाइद'आ बिराद मोजां मोनो, ओम्फ्राय आं बेखौहाय ट्रेनस्लेट खालामो उइदाउट एनि मा होनगोन बिखौ माने माबा मोनसे थांखिजों आरो, बान्था मोन्नायनि, बे बान्थाखौ थ' आं बि समाव साननोनो हाया, आरो अफकर्स आं जेब्ला बेखौ ट्रेनस्लेट खालामदोंमोन बर'फ्रा साहिथ' एकाडेमि एवार्ड मोनथ'वाखैमोन, बर' लेंगुवेजनो होथ'वाखैमोन, ट्रेनस्लेट खालामनाय समावहाय, बै समाव गैथ'आमोन। दा बै हिसाबै बान्था मोन्नायनि खोथायानो फैयामोन।"
+		intervals [15]:
+			xmin = 118.64
+			xmax = 118.76
+			text = "0"
+		intervals [16]:
+			xmin = 118.76
+			xmax = 132.06
+			text = "औ ओम्फ्राय बेनिखायनो आं बुङो जे आं जिउआव जुदि आनएक्सपेक्टेडलि माबा मोनसे मोन्नायाव बांद्राय रंजानाय मोनदोंब्ला बे साहिथ' एकाडेमि एवार्ड मोन्नायाव।"
+		intervals [17]:
+			xmin = 132.06
+			xmax = 132.16
+			text = "0"
+		intervals [18]:
+			xmin = 132.16
+			xmax = 136.46
+			text = "जोबोद मोजां रेस्फन्स बियो जे"
+		intervals [19]:
+			xmin = 136.46
+			xmax = 136.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 136.6
+		intervals: size = 19
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 17.7
+			text = ""
+		intervals [3]:
+			xmin = 17.7
+			xmax = 17.89
+			text = "0"
+		intervals [4]:
+			xmin = 17.89
+			xmax = 27.29
+			text = ""
+		intervals [5]:
+			xmin = 27.29
+			xmax = 27.49
+			text = "0"
+		intervals [6]:
+			xmin = 27.49
+			xmax = 43.39
+			text = ""
+		intervals [7]:
+			xmin = 43.39
+			xmax = 43.57
+			text = "0"
+		intervals [8]:
+			xmin = 43.57
+			xmax = 51.27
+			text = ""
+		intervals [9]:
+			xmin = 51.27
+			xmax = 51.48
+			text = "0"
+		intervals [10]:
+			xmin = 51.48
+			xmax = 74.88
+			text = ""
+		intervals [11]:
+			xmin = 74.88
+			xmax = 75.07
+			text = "0"
+		intervals [12]:
+			xmin = 75.07
+			xmax = 88.27
+			text = ""
+		intervals [13]:
+			xmin = 88.27
+			xmax = 88.34
+			text = "0"
+		intervals [14]:
+			xmin = 88.34
+			xmax = 118.64
+			text = ""
+		intervals [15]:
+			xmin = 118.64
+			xmax = 118.76
+			text = "0"
+		intervals [16]:
+			xmin = 118.76
+			xmax = 132.06
+			text = ""
+		intervals [17]:
+			xmin = 132.06
+			xmax = 132.16
+			text = "0"
+		intervals [18]:
+			xmin = 132.16
+			xmax = 136.46
+			text = ""
+		intervals [19]:
+			xmin = 136.46
+			xmax = 136.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 136.6
+		intervals: size = 19
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 17.7
+			text = ""
+		intervals [3]:
+			xmin = 17.7
+			xmax = 17.89
+			text = "0"
+		intervals [4]:
+			xmin = 17.89
+			xmax = 27.29
+			text = ""
+		intervals [5]:
+			xmin = 27.29
+			xmax = 27.49
+			text = "0"
+		intervals [6]:
+			xmin = 27.49
+			xmax = 43.39
+			text = ""
+		intervals [7]:
+			xmin = 43.39
+			xmax = 43.57
+			text = "0"
+		intervals [8]:
+			xmin = 43.57
+			xmax = 51.27
+			text = ""
+		intervals [9]:
+			xmin = 51.27
+			xmax = 51.48
+			text = "0"
+		intervals [10]:
+			xmin = 51.48
+			xmax = 74.88
+			text = ""
+		intervals [11]:
+			xmin = 74.88
+			xmax = 75.07
+			text = "0"
+		intervals [12]:
+			xmin = 75.07
+			xmax = 88.27
+			text = ""
+		intervals [13]:
+			xmin = 88.27
+			xmax = 88.34
+			text = "0"
+		intervals [14]:
+			xmin = 88.34
+			xmax = 118.64
+			text = ""
+		intervals [15]:
+			xmin = 118.64
+			xmax = 118.76
+			text = "0"
+		intervals [16]:
+			xmin = 118.76
+			xmax = 132.06
+			text = ""
+		intervals [17]:
+			xmin = 132.06
+			xmax = 132.16
+			text = "0"
+		intervals [18]:
+			xmin = 132.16
+			xmax = 136.46
+			text = ""
+		intervals [19]:
+			xmin = 136.46
+			xmax = 136.6
+			text = "0"

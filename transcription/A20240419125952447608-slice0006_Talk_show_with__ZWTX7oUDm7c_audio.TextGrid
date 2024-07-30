@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 30.1
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 30.1
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.47
+			text = ""
+		intervals [2]:
+			xmin = 11.47
+			xmax = 11.52
+			text = "0"
+		intervals [3]:
+			xmin = 11.52
+			xmax = 29.85
+			text = ""
+		intervals [4]:
+			xmin = 29.85
+			xmax = 30.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-transcription"
+		xmin = 0.0
+		xmax = 30.1
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.47
+			text = "लिरनाया आं उन्दै समनिफ्रायनो मायबा बिदि फिसा फिसा इसे लिरोमोन खारन जोंहा आइया बेफोर बायदि खामानियाव जोबोद गोसो गुदुंमोन।"
+		intervals [2]:
+			xmin = 11.47
+			xmax = 11.52
+			text = "0"
+		intervals [3]:
+			xmin = 11.52
+			xmax = 29.85
+			text = "आइया क्लास टुसिम ल' फरायनाय, थाखो नैसिम ल' फरायनाय खिन्थु बै समनि थाखो नैया जथेस्ट गोजब जायो, स' आइखौ आं लिरनाय नुयो द्रामा लिरो, मेथाइ लिरो, गामिनि आइजोफोरखौ फोरोङो बिफोर बायदि नुयो, ओम्फ्राय आं क्लास ओइट सोनिफ्राय स्पेसोलि"
+		intervals [4]:
+			xmin = 29.85
+			xmax = 30.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 30.1
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.47
+			text = ""
+		intervals [2]:
+			xmin = 11.47
+			xmax = 11.52
+			text = "0"
+		intervals [3]:
+			xmin = 11.52
+			xmax = 29.85
+			text = ""
+		intervals [4]:
+			xmin = 29.85
+			xmax = 30.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 30.1
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.47
+			text = ""
+		intervals [2]:
+			xmin = 11.47
+			xmax = 11.52
+			text = "0"
+		intervals [3]:
+			xmin = 11.52
+			xmax = 29.85
+			text = ""
+		intervals [4]:
+			xmin = 29.85
+			xmax = 30.1
+			text = "0"

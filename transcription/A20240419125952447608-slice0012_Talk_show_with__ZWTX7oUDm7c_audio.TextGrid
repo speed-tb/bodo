@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 18.5
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 18.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.03
+			text = "0"
+		intervals [2]:
+			xmin = 0.03
+			xmax = 15.7
+			text = ""
+		intervals [3]:
+			xmin = 15.7
+			xmax = 18.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-transcription"
+		xmin = 0.0
+		xmax = 18.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.03
+			text = "0"
+		intervals [2]:
+			xmin = 0.03
+			xmax = 15.7
+			text = ", खिन्थु उनाव थांनानैहाय सोरमोन नोङा जाहैबाय, बिराद मोजां कन्सेप्ट, फिसा घन्टा सेनि फ्लिम खिन्थु जोंनि बर' समासनि थाखाय जोबोद मोजां, दाबो रिलेभेन्ट जागोन बे फ्लिमा।"
+		intervals [3]:
+			xmin = 15.7
+			xmax = 18.5
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 18.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.03
+			text = "0"
+		intervals [2]:
+			xmin = 0.03
+			xmax = 15.7
+			text = ""
+		intervals [3]:
+			xmin = 15.7
+			xmax = 18.5
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 18.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.03
+			text = "0"
+		intervals [2]:
+			xmin = 0.03
+			xmax = 15.7
+			text = ""
+		intervals [3]:
+			xmin = 15.7
+			xmax = 18.5
+			text = "0"

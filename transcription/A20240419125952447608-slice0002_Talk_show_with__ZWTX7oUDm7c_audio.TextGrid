@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 18.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 18.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 4.77
+			text = ""
+		intervals [3]:
+			xmin = 4.77
+			xmax = 4.95
+			text = "0"
+		intervals [4]:
+			xmin = 4.95
+			xmax = 17.2
+			text = ""
+		intervals [5]:
+			xmin = 17.2
+			xmax = 18.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-transcription"
+		xmin = 0.0
+		xmax = 18.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 4.77
+			text = "आफादगिरि मासियाव्ट हाबा मावबाय थादों।"
+		intervals [3]:
+			xmin = 4.77
+			xmax = 4.95
+			text = "0"
+		intervals [4]:
+			xmin = 4.95
+			xmax = 17.2
+			text = "बिथाङा सासे फावखुंग्रि, बिथाङा सासे लिरगिरि, बिथाङा फोरोंगिरि,आरो बर’ समासनि जौगाखांनायनि थाखाय बायदि बिथाङा बिथाङा लोहाबगासिनो दंङ।"
+		intervals [5]:
+			xmin = 17.2
+			xmax = 18.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 18.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 4.77
+			text = ""
+		intervals [3]:
+			xmin = 4.77
+			xmax = 4.95
+			text = "0"
+		intervals [4]:
+			xmin = 4.95
+			xmax = 17.2
+			text = ""
+		intervals [5]:
+			xmin = 17.2
+			xmax = 18.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 18.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 4.77
+			text = ""
+		intervals [3]:
+			xmin = 4.77
+			xmax = 4.95
+			text = "0"
+		intervals [4]:
+			xmin = 4.95
+			xmax = 17.2
+			text = ""
+		intervals [5]:
+			xmin = 17.2
+			xmax = 18.3
+			text = "0"

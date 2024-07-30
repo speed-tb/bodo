@@ -1,0 +1,81 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 23.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-transcription"
+		xmin = 0.0
+		xmax = 23.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 6.97
+			text = "0"
+		intervals [2]:
+			xmin = 6.97
+			xmax = 22.69
+			text = "बद'लेण्ड इंखं टेलिभिजन नि भिवारसफोरा अजाय बानबुंथि हरबाय थादोंमोनजे इउ.पि. पि 
+.एल नि आफादगिरि प्रमद बर' बिथांजों मोगा मोगि नांगौ मोगा मोगि नांगौ"
+		intervals [3]:
+			xmin = 22.69
+			xmax = 23.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 23.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 6.97
+			text = "0"
+		intervals [2]:
+			xmin = 6.97
+			xmax = 22.69
+			text = ""
+		intervals [3]:
+			xmin = 22.69
+			xmax = 23.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 23.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 6.97
+			text = "0"
+		intervals [2]:
+			xmin = 6.97
+			xmax = 22.69
+			text = ""
+		intervals [3]:
+			xmin = 22.69
+			xmax = 23.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 23.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 6.97
+			text = "0"
+		intervals [2]:
+			xmin = 6.97
+			xmax = 22.69
+			text = ""
+		intervals [3]:
+			xmin = 22.69
+			xmax = 23.7
+			text = "0"

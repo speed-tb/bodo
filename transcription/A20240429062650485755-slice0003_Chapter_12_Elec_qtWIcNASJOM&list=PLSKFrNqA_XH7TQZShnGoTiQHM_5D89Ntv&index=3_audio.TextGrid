@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 195.9
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-transcription"
+		xmin = 0.0
+		xmax = 195.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.2
+			text = "0"
+		intervals [2]:
+			xmin = 1.2
+			xmax = 49.5
+			text = ""
+		intervals [3]:
+			xmin = 49.5
+			xmax = 49.53
+			text = "0"
+		intervals [4]:
+			xmin = 49.53
+			xmax = 94.88
+			text = ""
+		intervals [5]:
+			xmin = 94.88
+			xmax = 95.34
+			text = "0"
+		intervals [6]:
+			xmin = 95.34
+			xmax = 109.83
+			text = ""
+		intervals [7]:
+			xmin = 109.83
+			xmax = 110.16
+			text = "0"
+		intervals [8]:
+			xmin = 110.16
+			xmax = 195.16
+			text = ""
+		intervals [9]:
+			xmin = 195.16
+			xmax = 195.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 195.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.2
+			text = "0"
+		intervals [2]:
+			xmin = 1.2
+			xmax = 49.5
+			text = "ə biohai zəŋa somantʰai nebi somantʰai aɾə nəŋtʰəmənə aɾni velu kʰəlam ekʰ kʰəlamna la el kʰə el niman zəŋa nei zəŋa ɾonimənkʰə ɾebaitʰi mənəɡən uan poin ait pʰoɾ intu ten tu di pauəɾ mainas siks om mitaɾ haɾə ɾoni iunida mazəi om mitaɾ bekʰu boŋna aɾə kʰaɾkʰoɾaisə nəŋtʰəmənə zudi beo maokʰəu doubtəŋə əsə nəŋtʰəmənə zau kelkulesən zudi nəŋtʰəmənə kobio bananainanai tueb valiu aɾə kʰələ həŋna ɾebai nanamanə kʰənse haipʰen bohio haɾa zudi zebnaɡan nilaɡən nəŋtʰəmənə aɡən menɯpʰɾai aɾə biohai nizidi sio dʰatuɾi heŋtʰa zədə uan poin ait phoɾ intu ten tu di paueɾ siks om mitaɾ tʰokʰəlai zudi dusi"
+		intervals [3]:
+			xmin = 49.5
+			xmax = 49.53
+			text = "0"
+		intervals [4]:
+			xmin = 49.53
+			xmax = 94.88
+			text = "menɯpʰɾai zəŋ nunə mənədi beo meŋɡa nisni ruztʰaiaɾi heŋtʰa aɾa nebe ruzutʰai heŋtʰa ma mənse dʰatuaɾi ɡəɾəkʰuzəŋ nəŋtʰəmənkʰə ɡeɾna aɡən mənɡə ruztʰaiheŋtʰai zəŋ be ɡəɾə da bezəbai mənse simpəl ekzampəl oɾesə nəŋtʰəŋməna zebe kʰalamnai beo mənse gəɾlei ekzampəl menɯpʰɾai zəŋa ɡugəl mənse ekzampəlnai omnai ɡidən bezabai nəŋtʰəmənə bezəbai tʰəŋnai tuelb poin siks ohai manəməsəŋ el lautʰi ɡanaŋ aɾə  tʰəŋɡəɾ dənsoni doblaitʰi e ɡənə mənse hekʰənəi mubani deŋse taɾni heŋtʰaja pʰoɾ om ekʰe muani gubun deŋse taɾni heŋtʰaja ma zaɡən zaini lautʰei el bai tu aɾə tʰəŋɡəɾ danəsəni doblaitʰia tu empiəɾ da biohai nəŋtʰəmənə maddionahənə buzenaɡan"
+		intervals [5]:
+			xmin = 94.88
+			xmax = 95.34
+			text = "0"
+		intervals [6]:
+			xmin = 95.34
+			xmax = 109.83
+			text = "da mamahənai do bekʰə laŋna aɡən da zəŋkʰomanne adə zeŋkʰə heŋtʰaɡən aɾni mənkʰə giuhunaidə da aɾni həŋnai zəɡən aɾə ɾebaiti mammahənaiɡo"
+		intervals [7]:
+			xmin = 109.83
+			xmax = 110.16
+			text = "0"
+		intervals [8]:
+			xmin = 110.16
+			xmax = 195.16
+			text = "beokʰəliblana aɡə step bai step kʰəlamnai esaɡən mileinaɡən da bezəbai johai setʰibtam aɾə meitʰitʰəŋni ba tʰadoŋo setʰibtʰi laɡo madoŋo aɾ uan ikual tu ɾo el bai e tʰametba setʰi taɾao zəŋ nebe zəŋa ruls heŋtʰani pʰoɾmulamən aɾuan zəŋa setʰitʰami zə heŋtʰəzəŋ aɾ uan labai aɾ uan ikual tu el bai e ɾebai el zədən be ella pʰoɾmula zəŋa matʰəmai el bai rebaiti pʰormula aɾə zəptʰəŋnaio nəŋtʰəmənə mənnəanəŋmə neibe aɾ uan nizzə veliu həŋna pʰoɾəm tʰametba nibe ɾo el bai e khoroɡ zeŋ ikual bekʰu kʰuɾmaidə aɾə neitʰitʰəŋai aɾtu ikual tu ɾo el bai tu tʰəmetba biohai lautʰeɡesəŋ hunaidoŋo besitʰəi haŋna el bai tu aɾə bohai el zəŋai zəna el lautʰei  kʰuɾməidəŋ aɾə el bai tu zəŋa zəŋa be menɯpʰɾai ohai tu empiəɾ hənai nuŋə aɾə biohai ainihəiŋo tu empieɾ aɾə biohai eni be aizəbəi ɾebaiti sori be empieɾ noa be aɾia kʰəpʰəɾməini biolaitʰəhəpʰəɾ maeda da menɯpʰɾai nəŋtʰəŋmənə bikʰəi kelkulesən kʰələm həŋnai nəŋo ɾebaiti buŋna aɡən  uan bai pʰoɾ ɾo el bai e bekʰəmənə aɡən nəŋtʰəmənə menɯpʰɾai aɾə"
+		intervals [9]:
+			xmin = 195.16
+			xmax = 195.9
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 195.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.2
+			text = "0"
+		intervals [2]:
+			xmin = 1.2
+			xmax = 49.5
+			text = ""
+		intervals [3]:
+			xmin = 49.5
+			xmax = 49.53
+			text = "0"
+		intervals [4]:
+			xmin = 49.53
+			xmax = 94.88
+			text = ""
+		intervals [5]:
+			xmin = 94.88
+			xmax = 95.34
+			text = "0"
+		intervals [6]:
+			xmin = 95.34
+			xmax = 109.83
+			text = ""
+		intervals [7]:
+			xmin = 109.83
+			xmax = 110.16
+			text = "0"
+		intervals [8]:
+			xmin = 110.16
+			xmax = 195.16
+			text = ""
+		intervals [9]:
+			xmin = 195.16
+			xmax = 195.9
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 195.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.2
+			text = "0"
+		intervals [2]:
+			xmin = 1.2
+			xmax = 49.5
+			text = ""
+		intervals [3]:
+			xmin = 49.5
+			xmax = 49.53
+			text = "0"
+		intervals [4]:
+			xmin = 49.53
+			xmax = 94.88
+			text = ""
+		intervals [5]:
+			xmin = 94.88
+			xmax = 95.34
+			text = "0"
+		intervals [6]:
+			xmin = 95.34
+			xmax = 109.83
+			text = ""
+		intervals [7]:
+			xmin = 109.83
+			xmax = 110.16
+			text = "0"
+		intervals [8]:
+			xmin = 110.16
+			xmax = 195.16
+			text = ""
+		intervals [9]:
+			xmin = 195.16
+			xmax = 195.9
+			text = "0"

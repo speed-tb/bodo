@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 48.10002267573696
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-gloss"
+		xmin = 0.0
+		xmax = 48.10002267573696
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 5.1
+			text = ""
+		intervals [3]:
+			xmin = 5.1
+			xmax = 48.10002267573696
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-transcription"
+		xmin = 0.0
+		xmax = 48.10002267573696
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 5.1
+			text = "हिसट्रि इस  हिसट्रि,   हिसट्रिखौ लानानै नोंथाङा फिउसारखौ थिक खालामनो हाया, मोनसेल' खालामनो हायो आं थांनाय समाव गोरोन्थि मावबाय दा मावला, जुदि बै समाव बडफानि दिसिसन, गंगाधर रामसियारिनि दिसिसनखौ लानानै जुदि प्रमद बर'खौ सोङोब्ला आं थोंजोङै बुंनांगोन आइ वास न'थ धेर, जुदि बिदि बुङोब्ला आंखौ इर्रिसपनसिबल बुंगोन नङा होनब्ला बेसेबां दिफारेन्स"
+		intervals [3]:
+			xmin = 5.1
+			xmax = 25.34
+			text = "0"
+		intervals [4]:
+			xmin = 25.34
+			xmax = 33.31
+			text = "नङा बानबुंथाया नैबेनोमोनजे बर'फरायसा आफाद एबा बर' फरायसाफोरखौ प'लिटिकस इसुआव थायालासे बेखौ"
+		intervals [5]:
+			xmin = 33.31
+			xmax = 33.4
+			text = "0"
+		intervals [6]:
+			xmin = 33.4
+			xmax = 46.81
+			text = "होनबा होनबा दिनै नोंथांङा नोंथांनियाव आं प्रस्न खालामगोन अब्ला बडफाया पलिटिकेल इसु लानाङामोन नामा, जुदि  बडफाया पलिटिकेल इसुखौ लायामोनबा एस ए स्टुदेन्ट इउनिअन बि.एस.इ या जागौमोन ना,बि.टि.सि आ जागौमोन ना दिनै बि.टि.आर आ जागौमोन्ना"
+		intervals [7]:
+			xmin = 46.81
+			xmax = 48.10002267573696
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 48.10002267573696
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 5.1
+			text = ""
+		intervals [3]:
+			xmin = 5.1
+			xmax = 25.34
+			text = "0"
+		intervals [4]:
+			xmin = 25.34
+			xmax = 33.31
+			text = ""
+		intervals [5]:
+			xmin = 33.31
+			xmax = 48.10002267573696
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 48.10002267573696
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 5.1
+			text = ""
+		intervals [3]:
+			xmin = 5.1
+			xmax = 25.34
+			text = "0"
+		intervals [4]:
+			xmin = 25.34
+			xmax = 33.31
+			text = ""
+		intervals [5]:
+			xmin = 33.31
+			xmax = 48.10002267573696
+			text = "0"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 48.10002267573696
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 5.1
+			text = ""
+		intervals [3]:
+			xmin = 5.1
+			xmax = 25.34
+			text = "0"
+		intervals [4]:
+			xmin = 25.34
+			xmax = 33.31
+			text = ""
+		intervals [5]:
+			xmin = 33.31
+			xmax = 48.10002267573696
+			text = "0"

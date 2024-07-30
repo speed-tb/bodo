@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 131.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 131.4
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 90.37
+			text = "0"
+		intervals [2]:
+			xmin = 90.37
+			xmax = 101.55
+			text = ""
+		intervals [3]:
+			xmin = 90.37
+			xmax = 90.37
+			text = "@@##DELETE ME##@@"
+		intervals [4]:
+			xmin = 101.55
+			xmax = 119.55
+			text = ""
+		intervals [5]:
+			xmin = 119.55
+			xmax = 120.35
+			text = "0"
+		intervals [6]:
+			xmin = 120.35
+			xmax = 131.35
+			text = ""
+		intervals [7]:
+			xmin = 131.35
+			xmax = 131.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-transcription"
+		xmin = 0.0
+		xmax = 131.4
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 90.37
+			text = "0"
+		intervals [2]:
+			xmin = 90.37
+			xmax = 101.55
+			text = ""
+		intervals [3]:
+			xmin = 90.37
+			xmax = 90.37
+			text = "@@##DELETE ME##@@"
+		intervals [4]:
+			xmin = 101.55
+			xmax = 119.55
+			text = "नोंथाङा बि.टि.आर सुक्ति खालामदों गिबि साबानगिरि गिबि मुनसायगिरि नोंथांङा दा बिजों लोगोसेनो ओ फैबाय थानाय समावहाय बर' हारि थामोन्थायनि बाथ्रा बेफोर रजदों बेफोर फैदों, दा नोंथाङा फैगौ बिसायखथिनि थाखाय माबादि प्रिपेरेसन"
+		intervals [5]:
+			xmin = 119.55
+			xmax = 120.35
+			text = "0"
+		intervals [6]:
+			xmin = 120.35
+			xmax = 131.35
+			text = "गिबियावनो नोंथांनो आं धयनबादबो होयो आरो कंग्रेजिलेसनबो होयो ओ नोंथांनि जि सेनेल बे पपुलारिटिया बांगासिनो दं"
+		intervals [7]:
+			xmin = 131.35
+			xmax = 131.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 131.4
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 90.37
+			text = "0"
+		intervals [2]:
+			xmin = 90.37
+			xmax = 101.55
+			text = ""
+		intervals [3]:
+			xmin = 90.37
+			xmax = 90.37
+			text = "@@##DELETE ME##@@"
+		intervals [4]:
+			xmin = 101.55
+			xmax = 119.55
+			text = ""
+		intervals [5]:
+			xmin = 119.55
+			xmax = 120.35
+			text = "0"
+		intervals [6]:
+			xmin = 120.35
+			xmax = 131.35
+			text = ""
+		intervals [7]:
+			xmin = 131.35
+			xmax = 131.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 131.4
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 90.37
+			text = "0"
+		intervals [2]:
+			xmin = 90.37
+			xmax = 101.55
+			text = ""
+		intervals [3]:
+			xmin = 90.37
+			xmax = 90.37
+			text = "@@##DELETE ME##@@"
+		intervals [4]:
+			xmin = 101.55
+			xmax = 119.55
+			text = ""
+		intervals [5]:
+			xmin = 119.55
+			xmax = 120.35
+			text = "0"
+		intervals [6]:
+			xmin = 120.35
+			xmax = 131.35
+			text = ""
+		intervals [7]:
+			xmin = 131.35
+			xmax = 131.4
+			text = "0"

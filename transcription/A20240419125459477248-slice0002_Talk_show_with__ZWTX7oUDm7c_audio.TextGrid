@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 18.3
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-gloss"
+		xmin = 0.0
+		xmax = 18.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.3
+			text = "0"
+		intervals [2]:
+			xmin = 1.3
+			xmax = 4.5
+			text = ""
+		intervals [3]:
+			xmin = 4.5
+			xmax = 5.2
+			text = "0"
+		intervals [4]:
+			xmin = 5.2
+			xmax = 8.2
+			text = ""
+		intervals [5]:
+			xmin = 8.2
+			xmax = 8.6
+			text = "0"
+		intervals [6]:
+			xmin = 8.6
+			xmax = 16.9
+			text = ""
+		intervals [7]:
+			xmin = 16.9
+			xmax = 18.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-transcription"
+		xmin = 0.0
+		xmax = 18.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.3
+			text = "0"
+		intervals [2]:
+			xmin = 1.3
+			xmax = 4.5
+			text = "आफादगिरि मासियाव्ट हाबा मावबाय थादों"
+		intervals [3]:
+			xmin = 4.5
+			xmax = 5.2
+			text = "0"
+		intervals [4]:
+			xmin = 5.2
+			xmax = 8.2
+			text = "बिथाङा सासे फावखुंग्रि"
+		intervals [5]:
+			xmin = 8.2
+			xmax = 8.6
+			text = "0"
+		intervals [6]:
+			xmin = 8.6
+			xmax = 16.9
+			text = "बिथाङा सासे लिरगिरि, बिथाङा फोरोंगिरि,आरो बर’ समासनि जौगाखांनायनि थाखाय बायदि बिथाङा बिथाङा लोहाबगासिनो दंङ"
+		intervals [7]:
+			xmin = 16.9
+			xmax = 18.3
+			text = "0"

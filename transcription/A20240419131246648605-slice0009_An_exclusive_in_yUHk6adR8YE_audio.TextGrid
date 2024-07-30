@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 121.3
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-gloss"
+		xmin = 0.0
+		xmax = 121.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 21.5
+			text = ""
+		intervals [3]:
+			xmin = 21.5
+			xmax = 21.8
+			text = "0"
+		intervals [4]:
+			xmin = 21.8
+			xmax = 28.0
+			text = ""
+		intervals [5]:
+			xmin = 28.0
+			xmax = 121.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-transcription"
+		xmin = 0.0
+		xmax = 121.3
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 21.5
+			text = "प'लिटिकसनि थाखाय पलिटिकेल इसुखौ प्लेस खालामनो थाखाय बर'फोरनो गोबां पलिटिकेल पार्टि दंसै, नोंथाङा दैदेन्नाय इउ.पि.पि.एल पार्टि दंसै दा बिदिनो बि.फि.एफ दं बर'हारिनि बुंनो थाङोब्ला पलिग्राम पार्टि बुंनांगोन मोन्नै मैखोम दोलो नोंथाङा दैदेन्नाय इउ.पि.पि.एल आरो हाग्रामा दैदेन्नाय बि.फि.एफ"
+		intervals [3]:
+			xmin = 21.5
+			xmax = 21.8
+			text = "0"
+		intervals [4]:
+			xmin = 21.8
+			xmax = 28.0
+			text = "बे मोन्नै पलिटिकेल पार्टि थानायनि उनावहाय जोंनो दुलाराय बर फरायसा आफादखौ प'लिटिकसाव इनभल्ब खालामनाया गोनां जाबावगोन्ना"
+		intervals [5]:
+			xmin = 28.0
+			xmax = 28.35
+			text = "0"
+		intervals [6]:
+			xmin = 28.35
+			xmax = 53.25
+			text = "बि दिपेन्द आपुन बेखौ एबसुआसो सानगोन बेखौ आं सान्नो हाया मानोना आं दा एबसुनि आफादगिरि नंलिया बे कुनसनखौ नोंथाङा दानि लिदारफोरखौ कुइसनखौ सोंनांगोन आरो लोगोसे जोंनि मावनायनि सायाव सोनारगोन दिनै आं पार्टियाव फैनानै गाबोन जुदि जातिय' इसुफोरनिफ्राय गोजान जालाङोब्ला, बि.फि.एफ आ जुदि दिनै पार्टि खालामनानै जातिय' इसुफोरआव गैयाब्ला, बर'हारिनि इसुसफोराव जुदि गैयाब्ला नितसय एबसुआ गावनिबादि सानगोन"
+		intervals [7]:
+			xmin = 53.25
+			xmax = 53.55
+			text = "0"
+		intervals [8]:
+			xmin = 53.55
+			xmax = 80.85
+			text = "दा बेखौ लानानै आं प्रेदिकट खालामनो हानाय नङा खि एबसुआ दिनै मा मावगोन गाबोन मा मावगोन आरो बे थिकबो नङा प्रेदिकट खालामनाया मानोना बिखौ खरसासो खिन्थागोन पलिटिकेल खरसा आरो जोंनि एक्टिविटि जोंनि सिन्तादारा आरो बर' हारि दानायनि फिल'स'फि बिजोंसो सोनारगोन जुदि एबसुआ सानोब्ला बर'साहित्य सभाया सानैबा बर'नि माहारि आफाद बा बर'नि इन्दिभिजुयेल माहारि दाग्रा बै लिदारफोरा बा सानसुमैफोरा सानोब्ला ओ इउ.पि.पि.एल आ गैला बि.फि.एफ आ गैला बिथांमोना गुबुन मैनसे सानगोन"
+		intervals [9]:
+			xmin = 80.85
+			xmax = 121.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 121.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 21.5
+			text = ""
+		intervals [3]:
+			xmin = 21.5
+			xmax = 21.8
+			text = "0"
+		intervals [4]:
+			xmin = 21.8
+			xmax = 28.0
+			text = ""
+		intervals [5]:
+			xmin = 28.0
+			xmax = 121.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 121.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 21.5
+			text = ""
+		intervals [3]:
+			xmin = 21.5
+			xmax = 21.8
+			text = "0"
+		intervals [4]:
+			xmin = 21.8
+			xmax = 28.0
+			text = ""
+		intervals [5]:
+			xmin = 28.0
+			xmax = 121.3
+			text = "0"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 121.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 21.5
+			text = ""
+		intervals [3]:
+			xmin = 21.5
+			xmax = 21.8
+			text = "0"
+		intervals [4]:
+			xmin = 21.8
+			xmax = 28.0
+			text = ""
+		intervals [5]:
+			xmin = 28.0
+			xmax = 121.3
+			text = "0"

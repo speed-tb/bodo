@@ -1,0 +1,234 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 124.20002267573696
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-gloss"
+		xmin = 0.0
+		xmax = 124.20002267573696
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 13.2
+			text = ""
+		intervals [3]:
+			xmin = 13.2
+			xmax = 13.6
+			text = "0"
+		intervals [4]:
+			xmin = 13.6
+			xmax = 28.8
+			text = ""
+		intervals [5]:
+			xmin = 28.8
+			xmax = 29.05
+			text = "0"
+		intervals [6]:
+			xmin = 29.05
+			xmax = 47.15
+			text = ""
+		intervals [7]:
+			xmin = 47.15
+			xmax = 124.20002267573696
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Devanagari-transcription"
+		xmin = 0.0
+		xmax = 124.20002267573696
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 13.2
+			text = "दुलाराय बर फरायसा आफाद बे जाबाय फरायसाफोरनि गौथुम दा बे हिसाबै फरायसाफोरा प'लिटिकसाव इनभल्ब जानाय लोगो लोगोनो बेनि जिनाखि थासारि जोंनि एकादेमीक जिनिखि सिथुयेसन बियो दायभारट जानो लागै हमो"
+		intervals [3]:
+			xmin = 13.2
+			xmax = 13.6
+			text = "0"
+		intervals [4]:
+			xmin = 13.6
+			xmax = 28.8
+			text = "बिखौ ओ येस येस बिखौ एबसुआ माइनड खालामो एबसुआ माइनड खालामा बिदि नङा  एबसुआ बिखौ माइनड खालामो बेनिखायनो एबसुआ इजुकेसन्नि जेहेतु बर' हारिनि गेजेराव बांसिन एवारनेस खालामदों होनब्ला एबसु,"
+		intervals [5]:
+			xmin = 28.8
+			xmax = 29.05
+			text = "0"
+		intervals [6]:
+			xmin = 29.05
+			xmax = 47.15
+			text = "एन.एस.इउ.आइ कंग्रेसाथ' रुलिं गभर्नमेन्ट एन.एस.इउ.आइ आंथ' स्कुल कलेजावनो थायो जों बिसोरखौ बुंदों नामा मालाबा जे कंग्रेसआ एन.एस.इउ.आइ नि थिखाय स्कुल कलेजनि परिबेसा गाज्रि जाबाय"
+		intervals [7]:
+			xmin = 47.15
+			xmax = 57.35
+			text = "0"
+		intervals [8]:
+			xmin = 57.35
+			xmax = 75.05
+			text = "एस.एफ.आइ कंग्रेस स्कुलावनो थायो बिसोर दिनै जे.एन.इउ आव बिसोरनि मानसिफोरा दं दिनै, ओ ए.पि.बि.पि स्कुल कलेजावनो मावो बिथांमोनाबो बिसोरखौथ' जों बुङाखै मालाबाबो जे नोंसोर फरायनायनि थासारि गाज्रि खालामबाय खिन्थु जोंनिया मा बुंबायजे एबसुआ प'लिटिकसाव थांनानै गाज्रि खालामबाय"
+		intervals [9]:
+			xmin = 75.05
+			xmax = 75.25
+			text = "0"
+		intervals [10]:
+			xmin = 75.25
+			xmax = 80.95
+			text = "एबसुआ जिसिबां प'लिटिकस खालामदों बिनि ओइदटि पारसेन्ट खिन्थु ससाइटिनि खामानि मावदों"
+		intervals [11]:
+			xmin = 80.95
+			xmax = 81.25
+			text = "0"
+		intervals [12]:
+			xmin = 81.25
+			xmax = 83.45
+			text = "आं आवगायनो लांफिन्नो नागेरदोङो"
+		intervals [13]:
+			xmin = 83.45
+			xmax = 111.9
+			text = "0"
+		intervals [14]:
+			xmin = 111.9
+			xmax = 124.1
+			text = ""
+		intervals [15]:
+			xmin = 124.1
+			xmax = 124.20002267573696
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 124.20002267573696
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 13.2
+			text = "undefined"
+		intervals [3]:
+			xmin = 13.2
+			xmax = 13.6
+			text = "0"
+		intervals [4]:
+			xmin = 13.6
+			xmax = 28.8
+			text = ""
+		intervals [5]:
+			xmin = 28.8
+			xmax = 29.05
+			text = "0"
+		intervals [6]:
+			xmin = 29.05
+			xmax = 47.15
+			text = ""
+		intervals [7]:
+			xmin = 47.15
+			xmax = 57.35
+			text = "0"
+		intervals [8]:
+			xmin = 57.35
+			xmax = 75.05
+			text = ""
+		intervals [9]:
+			xmin = 75.05
+			xmax = 124.20002267573696
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 124.20002267573696
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 13.2
+			text = "undefined"
+		intervals [3]:
+			xmin = 13.2
+			xmax = 13.6
+			text = "0"
+		intervals [4]:
+			xmin = 13.6
+			xmax = 28.8
+			text = ""
+		intervals [5]:
+			xmin = 28.8
+			xmax = 29.05
+			text = "0"
+		intervals [6]:
+			xmin = 29.05
+			xmax = 47.15
+			text = ""
+		intervals [7]:
+			xmin = 47.15
+			xmax = 57.35
+			text = "0"
+		intervals [8]:
+			xmin = 57.35
+			xmax = 75.05
+			text = ""
+		intervals [9]:
+			xmin = 75.05
+			xmax = 124.20002267573696
+			text = "0"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 124.20002267573696
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 13.2
+			text = ""
+		intervals [3]:
+			xmin = 13.2
+			xmax = 13.6
+			text = "0"
+		intervals [4]:
+			xmin = 13.6
+			xmax = 28.8
+			text = ""
+		intervals [5]:
+			xmin = 28.8
+			xmax = 29.05
+			text = "0"
+		intervals [6]:
+			xmin = 29.05
+			xmax = 47.15
+			text = ""
+		intervals [7]:
+			xmin = 47.15
+			xmax = 57.35
+			text = "0"
+		intervals [8]:
+			xmin = 57.35
+			xmax = 75.05
+			text = ""
+		intervals [9]:
+			xmin = 75.05
+			xmax = 124.20002267573696
+			text = "0"
